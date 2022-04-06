@@ -1,5 +1,5 @@
 # Movies-Correlation-Analysis
-Understanding the high correlations between the quantitative and categorical features of [movies released between 1980 - 2020](https://www.kaggle.com/datasets/danielgrijalvas/movies).
+Understanding the high correlations between the quantitative and categorical features of [movies released 1980 - 2020](https://www.kaggle.com/datasets/danielgrijalvas/movies).
 
 #### Datatypes:
 
